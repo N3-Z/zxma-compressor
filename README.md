@@ -5,7 +5,7 @@
 ```
 Original  133.4 MB
 7-Zip     38.72 MB  (reference)
-ZXMA      36.92 MB  ✓ smaller than 7-Zip on rockyou.txt with > 32KB block size
+ZXMA      36.92 MB  ✓ smaller than 7-Zip on rockyou.txt with > 32MB block size
 ```
 
 ---
